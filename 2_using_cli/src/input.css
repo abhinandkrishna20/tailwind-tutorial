@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pink-back{
+    background-color: #fbb1e1;
+}
